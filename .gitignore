@@ -1,3 +1,8 @@
+# Ignore actual executable
+/osx-lockscreen
+
+# What follows is GitHub's standard .gitignore for Objective-C projects
+
 # Xcode
 #
 build/
